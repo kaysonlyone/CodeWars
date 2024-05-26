@@ -9,3 +9,6 @@ function abbrevName(name){
   const secondInitial = nameArray[1][0].toUpperCase();
   return `${firstInitial}.${secondInitial}`;
 }
+
+
+//I initially faced a challenge with structuring the problem but was able to work through it.

@@ -7,3 +7,5 @@ var summation = function (num) {
     }
     return sum;
   }
+
+  //I had a issue recalling how to corectly use a for loop but was able to implement it correctly inside my fucntion.

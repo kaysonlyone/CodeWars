@@ -10,3 +10,5 @@ function lovefunc(flower1, flower2){
         return false;
       }
   }
+
+  //With this problem I knew that I needed to write an if else statement, the rest was a bit tricky but I ended up figuring it out by breaking down the problem.
